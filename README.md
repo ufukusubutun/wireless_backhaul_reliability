@@ -1,6 +1,6 @@
 # Estimating wireless backhaul reliability under rain attenuation
 
-Authors: Ufuk Usubutun & Andre Gomes
+Authors: Andre Gomes & Ufuk Usubutun
 
 This repo contains:
 * our script used to generate the figures in the paper,
