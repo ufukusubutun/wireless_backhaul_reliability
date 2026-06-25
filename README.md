@@ -2,6 +2,8 @@
 
 Authors: Andre Gomes & Ufuk Usubutun
 
+IN PROGRESS - will be updated soon.
+
 This repo contains:
 * our script used to generate the figures in the paper,
 * and an AI agent generated notebook based on our script for easy testing of different parameters
