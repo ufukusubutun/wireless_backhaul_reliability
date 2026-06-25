@@ -5,8 +5,8 @@ Authors: Andre Gomes & Ufuk Usubutun
 IN PROGRESS - will be updated soon.
 
 This repo contains:
-* our script used to generate the figures in the paper,
-* and an AI agent generated notebook based on our script for easy testing of different parameters
+* our script used to generate the figures in the paper 'nyu_att_clean_3_26.ipynb',
+* and an AI agent generated notebook based on our script for easy testing of different parameters `wireless_backhaul_sweep_workflow.ipynb`
 
 All results in the publication were produced by our own script, which we verified for correctness in the cases considered.
 
