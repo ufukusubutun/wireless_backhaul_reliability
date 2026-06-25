@@ -9,8 +9,7 @@ Code accompanying our paper on quantifying the reliability–capacity tradeoff o
 **Authors:** Ufuk Usubütün\* and André Gomes\* (NYU Tandon; Rowan University), Shankaranarayanan Puzhavakath Narayanan and Matti Hiltunen (AT&T Labs Research), and Shivendra S. Panwar (NYU Tandon). \*Equal contribution.
 
 
-<img src="https://github.com/ufukusubutun/wireless_backhaul_reliability/blob/main/example_img.png"  width="40%" >
-
+<img src="https://github.com/ufukusubutun/wireless_backhaul_reliability/blob/main/example_img.png"  width="90%" >
 
 
 ## Code: Estimating wireless backhaul reliability under rain attenuation
